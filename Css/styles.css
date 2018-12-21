@@ -107,6 +107,10 @@ hr{
 .middle-container{
   background-color:#ff7657;
   min-width:580px;
+  width: 105%;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
 }
 .bottom-container{
   margin: 50px auto 50px auto;
